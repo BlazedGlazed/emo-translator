@@ -1,0 +1,6 @@
+text2emotion==0.0.5
+emoji==1.6.3
+transformers>=4.36.0
+torch>=1.12.1
+sentencepiece>=0.1.99
+nltk>=3.8.1
